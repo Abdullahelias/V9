@@ -57,7 +57,7 @@ const QUESTIONS: Question[] = [
   {
     id: 3,
     label: "IMPACT",
-    prompt: "How do these retreats contribute to your impact?",
+    prompt: "How does retreat based work enable greater impact?",
     placeholder: "Describe the difference retreats make — improved collaboration, new strategies, sustained energy...",
     hint: "Consider changes in strategy, organizational capacity, team relationships, leadership effectiveness, or long-term sustainability of your work.",
   },
